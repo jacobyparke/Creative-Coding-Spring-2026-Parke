@@ -1,0 +1,28 @@
+/* CLASS SELECTORS */
+.highlight {
+    color: darkblue;
+    font-weight: bold;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* ID SELECTORS */
+#mainTitle {
+    color: rgb(55, 228, 231);
+    text-align: center;
+}
+
+#navLinks {
+    background-color: rgb(59, 239, 255);
+    padding: 10px;
+}
+.storyBackground {
+    background-image: url(https://cdn.cinematerial.com/p/136x/b0ob9zgu/the-substance-movie-poster-sm.jpg?v=1726152219);
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
